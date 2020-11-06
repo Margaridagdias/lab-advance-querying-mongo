@@ -1,3 +1,7 @@
+![Ironhack Logo](https://i.imgur.com/1QgrNNw.png)
+
+# Answers
+
 ### 1. All the companies whose name match 'Babelgum'. Retrieve only their `name` field.
 
 <!-- Your Code Goes Here -->
